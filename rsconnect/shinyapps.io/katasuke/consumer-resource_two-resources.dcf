@@ -1,0 +1,10 @@
+name: consumer-resource_two-resources
+title:
+username: katasuke
+account: katasuke
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11396522
+bundleId: 8330022
+url: https://katasuke.shinyapps.io/consumer-resource_two-resources/
+version: 1
